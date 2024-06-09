@@ -30,7 +30,7 @@ int main() {
         // Call the function to print the pattern
         Pattern1(n);
     }
-
+    
     return 0;
 }
 
