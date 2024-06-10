@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 void Pattern8(int n){
 for(int i=0;i<n;i++){
