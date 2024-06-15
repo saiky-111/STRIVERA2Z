@@ -15,6 +15,7 @@ void Pattern2(int n) {
     }
 }
 
+
 int main() {
     // Variable to store the number of test cases
     int t;
