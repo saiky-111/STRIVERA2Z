@@ -137,7 +137,7 @@ cout<< v.empty();//tells if the vector is empty or not
 }
 
 
-}
+
 int main() {
 
     explainVector();
